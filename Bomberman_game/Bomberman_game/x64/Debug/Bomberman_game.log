@@ -1,9 +1,0 @@
-﻿  bound.cpp
-E:\projekty\Bomberman\Bomberman_game\Bomberman_game\bound.cpp(1,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
-  circle.cpp
-E:\projekty\Bomberman\Bomberman_game\Bomberman_game\circle.cpp(1,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
-  Main.cpp
-E:\projekty\Bomberman\Bomberman_game\Bomberman_game\Main.cpp(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
-  object.cpp
-E:\projekty\Bomberman\Bomberman_game\Bomberman_game\object.cpp(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
-  Generowanie kodu...
